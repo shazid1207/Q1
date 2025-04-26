@@ -1,2 +1,1 @@
-# Q1
-Q1
+print("hello world")
